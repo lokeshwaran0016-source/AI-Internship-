@@ -1,0 +1,152 @@
+num1=int(input("enter a value:"))
+num2=int(input("enter a value:"))
+if num1<num2:
+    print("smallest number is :",num1)
+else:
+    print("smallest number is :",num2)
+
+
+
+num1=int(input("enter a value:"))
+num2=int(input("enter a value:"))
+if num1>num2:
+    print("Largest number is :",num1)
+else:
+    print("Largest number is :",num2)
+
+
+num=int(input("Enter the value:"))
+if int=num%2==o:
+    print("number is even:",num)
+else:
+        print("number is odd:",num)
+
+num1=int(input("Enter the value:"))
+num2=int(input("Enter the value:"))
+if num1==num2:
+    print("absolute")
+else:
+    print("not")
+
+num=int(input("Enter the value:"))
+if num%5==0:
+    print(" multiple of 5:",num)
+else:
+    print("not")
+
+num=int(input("Enter the value:"))
+if num%10==0:
+    print(" multiple of 10:",num)
+else:
+    print("not")
+
+
+num=int(input("enter a value:"))
+if num>=10 and num<=99:
+    print("2 digit",num)
+else:
+    print("not")
+
+num=int(input("enter a value:"))
+if num>=100 and num<=999:
+    print("3 digit")
+else:
+    print("not")
+
+num=int(input("enter a value:"))
+if num%10==0:
+    print("zero")
+else:
+    print("not")
+
+num=float(input("enter a value:"))
+square_root=num**2
+if num>50:
+    print("above 50",square_root)
+else:
+    print("bleow 50",square_root)
+
+num1=int(input("enter a value:"))
+num2=int(input("enter a value:"))
+if num1-num2==0:
+    print("value:0")
+else:
+    print("not zero")
+
+cs=int(input("enter a marks:"))
+if cs>=50:
+    print("pass")
+else:
+    print("fail")
+
+num=int(input("enter a value:"))
+if num%10==0:
+    print("divisible")
+else:
+    print("not")
+
+i=int(input("enter a value:"))
+num=i%10
+i//=10
+if i>num:
+    print("yes")
+else:
+    print("no")
+
+
+num=int(input("Enter your choice: "))
+
+if num==1:
+    print("The exam will be easy")
+else:
+    print("The exam will be difficult")
+
+
+value=int(input("Enter a value: "))
+
+if value==1:
+    print("You can go out and play")
+else:
+    print("You cannot go out and play")
+
+
+length=int(input("Enter length: "))
+breadth=int(input("Enter breadth: "))
+
+if length==breadth:
+    print("It is a Square")
+else:
+    print("It is a Rectangle")
+
+
+num=int(input("Enter a number: "))
+
+if num%5==0 and num%3==0:
+    print("The number is a multiple of both 5 and 3")
+else:
+    print("The number is not a multiple of both 5 and 3")
+
+       
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+
+
+    
+
+
+        
+
+
+    
+
